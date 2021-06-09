@@ -5,4 +5,4 @@ cd ../glory-go.github.io/
 git add .
 git commit -m "update website"
 git push
-cd ../glory-go/
+cd ../glory-website/

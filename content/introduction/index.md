@@ -23,4 +23,7 @@ Glory具有以下功能：
 
 - 服务治理：Glory框架提供基于K8s、Nacos的服务发现机制，可以在**k8s集群中自动进行Glory-gRPC服务实例的注册、发现和负载均衡。**
 
-**下一章：[快速开始](https://glory-go.github.io/quickstart/)**
+[如果觉得不错的话，点我给个star吧 感谢！](https://github.com/glory-go/glory)
+
+**下一章：[快速开始](../quickstart/)**
+

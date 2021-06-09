@@ -371,12 +371,12 @@ func main() {
 框架默认使用 "./config/glory.yaml"作为配置文件
 
 - 如果您希望通过配置中心读取配置,请参考示例// todo
-
 - 如果您希望修改配置路径,或者通过IDE启动项目,设置修改环境变量 GLORY_CONFIG_PATH="您的glory.yaml文件路径"
-
 - 如果您希望根据环境区分配置,请参考示例// todo
 
-下一篇: [示例说明](https://glory-go.github.io/samples/)
+[如果觉得不错的话，点我给个star吧 感谢！](https://github.com/glory-go/glory)
+
+下一篇: [示例说明](../samples/)
 
 
 
