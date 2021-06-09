@@ -1,0 +1,86 @@
+baseURL = "https://glory-go.github.io"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Hello Glory Title"
+theme = "cayman-hugo-theme"
+
+# Google analytics
+googleAnalytics = "UA-123456789-1"
+
+# Disqus comments
+disqusShortname = "yourdiscussshortname"
+
+# Syntax highlighting
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+#post = "/:filename/"
+
+[params]
+# Header text, can be markdown
+project_name = "Glory"
+project_tagline = "A Golang Light RPC Framework"
+
+# Date format for post list and single pages
+# For more date formats see https://gohugo.io/functions/format/
+dateFormat = "2006-01-02"
+
+# Footer text, can be markdown
+#footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+
+# If true, the CSS/JS for Katex math typesetting are enabled
+katex = true
+
+# Breakpoints
+large_breakpoint = "64em"
+medium_breakpoint = "42em"
+
+# Header colors
+header_heading_color = "#303030 "
+header_background_color = "#80a080"
+header_background_color_secondary = "#0cdfef"
+
+# Text colors
+section_headings_color = "#0cafaf"
+body_text_color = "#606c71"
+body_link_color = "#1e6bb8"
+blockquote_text_color = "#819198"
+
+# Code colors
+code_background_color = "#f3f6fa"
+code_text_color = "#567482"
+
+# Border colors
+border_color = "#0cdfef"
+table_border_color = "#0cdfef"
+hr_border_color = "#0cdfef"
+
+[menu]
+[[menu.nav]]
+name = "总体介绍"
+url = "/introduction/"
+weight = 1
+[[menu.nav]]
+name = "快速开始"
+url = "/quickstart/"
+weight = 2
+[[menu.nav]]
+name = "示例"
+url = "/samples/"
+weight = 3
+[[menu.nav]]
+name = "开发文档"
+url = "/doc/index/"
+weight = 4
+[[menu.nav]]
+name = "联系我们"
+url = "/contact_us/"
+weight = 5
+[[menu.nav]]
+name = "如何贡献"
+url = "/index.xml"
+weight = 6
