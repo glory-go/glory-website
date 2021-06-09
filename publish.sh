@@ -1,6 +1,6 @@
 rm -rf ../glory-go.github.io/*
 hugo
-mv public/* ../../glory-go.github.io/
+mv public/* ../glory-go.github.io/
 cd ../glory-go.github.io/
 git add .
 git commit -m "update website"
