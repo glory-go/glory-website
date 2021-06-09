@@ -1,7 +1,7 @@
 baseURL = "https://glory-go.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hello Glory Title"
+title = "Hello Glory"
 theme = "cayman-hugo-theme"
 
 # Google analytics
@@ -23,7 +23,7 @@ tag = "tags"
 [params]
 # Header text, can be markdown
 project_name = "Glory"
-project_tagline = "A Golang Light RPC Framework"
+project_tagline = "一款 Go 语言轻量级 RPC 框架"
 
 # Date format for post list and single pages
 # For more date formats see https://gohugo.io/functions/format/
@@ -69,7 +69,7 @@ name = "快速开始"
 url = "/quickstart/"
 weight = 2
 [[menu.nav]]
-name = "示例"
+name = "示例说明"
 url = "/samples/"
 weight = 3
 [[menu.nav]]
@@ -80,7 +80,7 @@ weight = 4
 name = "联系我们"
 url = "/contact_us/"
 weight = 5
-[[menu.nav]]
-name = "如何贡献"
-url = "/index.xml"
-weight = 6
+#[[menu.nav]]
+#name = "如何贡献"
+#url = "/index.xml"
+#weight = 6

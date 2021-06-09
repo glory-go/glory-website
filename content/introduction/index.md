@@ -2,6 +2,9 @@
 title: "总体介绍"
 date: 2021-06-08T23:36:08+08:00
 ---
+我们的github仓库：[https://github.com/glory-go/glory](https://github.com/glory-go/glory)
+
+我们的示例仓库：[https://github.com/glory-go/glory-demo](https://github.com/glory-go/glory-demo)
 
 Glory框架为一款Go语言的轻量级RPC框架，您可以使用它快速开发你的服务实例。如果您希望在**微服务场景下**使用**gRPC**进行网络通信，那么Glory会使您的开发、运维工作量减轻不少。
 

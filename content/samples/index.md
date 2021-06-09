@@ -39,7 +39,8 @@ date: 2021-06-08T23:36:08+08:00
 
 ## 2. 如何运行
 
-部分示例存在依赖启动脚本，需要 docker 环境。
+部分示例存在依赖启动脚本，放置在示例根目录，需要 docker 环境，运行`$ sh setup_xxx.sh`启动。
+
 
 [如果觉得不错的话，点我给个star吧 感谢！](https://github.com/glory-go/glory)
 
